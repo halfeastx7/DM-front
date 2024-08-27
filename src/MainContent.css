@@ -9,6 +9,9 @@
   flex-grow: 1;
   padding: 20px;
   background-color: #f8f8f8;
+  padding: 20px;
+  margin-left: 0; /* Ensure there is no margin between sidebar and content */
+  border-radius: 0 30px 30px 0; /* Adjust border-radius for better alignment */
 }
 
 /* Header styling */

@@ -8,17 +8,18 @@
   font-family: "Inter", sans-serif;
 }
 body {
-  background-color: #dbe2f4;
+  background-color: #d9efda;
 }
 .container {
   display: flex;
-  align-items: center;
-  width: 100%;
+  align-items: stretch; 
   min-height: 100vh;
+  padding: 0;
+  margin: 0;
 }
 .sidebar {
   position: relative;
-  width: 256px;
+  width: 220px;
   height: 100vh;
   display: flex;
   flex-direction: column;

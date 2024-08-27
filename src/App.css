@@ -4,7 +4,7 @@
 }
 
 .sidebar {
-  width: 250px;
+  width: 100px; /* Adjust to make the sidebar smaller when closed */
   background-color: #103D3F;
   color: white;
   display: flex;
